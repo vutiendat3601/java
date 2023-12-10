@@ -1,0 +1,6 @@
+What is your name?
+Name = Name: Vu Tien Dat
+What is your age?
+Age = Age: 22
+What is your address?
+Address = Address: 
